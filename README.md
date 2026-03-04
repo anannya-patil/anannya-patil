@@ -1,13 +1,31 @@
 ## Hi, I'm Anannya Patil
 
-I work on software systems that involve data, roles, permissions, and real-world workflows. I’m most interested in backend and system-oriented development, where logic, structure, and long-term correctness matter more than surface-level features.
+Backend-focused developer interested in systems involving data models, access control, and real-world workflows.
 
-Across my projects, I tend to focus on building complete systems rather than isolated components — thinking through access control, data models, lifecycle states, and how different actors interact with the system.
+I enjoy building complete systems rather than isolated components — thinking through permissions, lifecycle states, and how different actors interact with data.
+
+My work tends to focus on backend logic and system structure rather than surface-level features.
+
+**Core Stack:** Python, Flask, MySQL, REST APIs  
+**Other Exposure:** Java, C/C++, Firebase, HTML/CSS/JS
+
+## Current Focus
+
+- Strengthening backend development with Java and system-oriented design  
+- Practicing data modeling, access control, and reliable system workflows  
+- Building projects that emphasize structure, correctness, and long-term maintainability
+
+## Engineering Interests
+
+- Designing clear data models and lifecycle states for real-world workflows  
+- Implementing role-based access and permission boundaries  
+- Building backend systems that remain predictable as they grow  
+- Structuring applications around clear responsibilities between components
 
 ## Flagship Projects (team-based)
 
 ### 🩺 Aarogya Pothi — Personal Health Record Manager (PHRM)
-A secure, patient-centric digital health platform that enables controlled collaboration between patients, doctors, and researchers.
+A patient-centric health platform enabling controlled collaboration between patients, doctors, and researchers.
 
 - Patient-owned medical records with granular, revocable consent  
 - Separate patient, doctor, and researcher modules with role-based access  
@@ -33,7 +51,7 @@ A zone-driven public safety platform designed for large-scale events such as the
 ---
 
 ### 💻 Lab Management System
-An admin-focused system for managing laboratory devices, issues, and maintenance lifecycles.
+An admin-focused system for tracking laboratory devices, issues, and maintenance lifecycles.
 
 - Full device lifecycle tracking (allocation, repair, retirement)  
 - Issue logging with resolution and escalation tracking  
@@ -67,16 +85,7 @@ A backend-focused project for indexing and querying content.
 
 ---
 
-## Early & Exploratory Projects
-
-- **Smart Stick for the Visually Impaired:** ESP32-CAM-based obstacle detection with audio feedback  
-- **Automatic Parking System:** Arduino-based slot tracking using sensors and LCD  
-- **JEE Question Solver:** C-based terminal program for entrance-style problems  
-- **Sports Information Website:** Static informational site using HTML, CSS, JS, Bootstrap  
-
----
-
-## Technical Exposure
+## Tech Stack
 
 - **Languages:** Python, C, C++, Java (basics), SQL  
 - **Backend & Web:** Flask, REST-style APIs, HTML, CSS, JavaScript  
@@ -86,4 +95,13 @@ A backend-focused project for indexing and querying content.
 
 ---
 
-I’m currently strengthening my backend foundations, with a focus on data modeling, access control, and building systems that are consistent, reliable, and complete.
+## Early & Exploratory Projects
+
+- **Smart Stick for the Visually Impaired:** ESP32-CAM-based obstacle detection with audio feedback  
+- **Automatic Parking System:** Arduino-based slot tracking using sensors and LCD  
+- **JEE Question Solver:** C-based terminal program for entrance-style problems  
+- **Sports Information Website:** Static informational site using HTML, CSS, JS, Bootstrap  
+
+---
+
+I’m currently deepening my backend foundations with a focus on data modeling, access control, and building systems that remain consistent and reliable as they grow.
