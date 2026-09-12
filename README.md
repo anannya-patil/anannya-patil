@@ -37,7 +37,7 @@ A patient-centric health platform enabling controlled collaboration between pati
 
 ---
 
-### 🛡️ Zone-Based Crowd Safety & Alert System
+### Zone-Based Crowd Safety & Alert System
 A zone-driven public safety platform designed for large-scale events such as the Kumbh Mela.
 
 - Event areas divided into managed GPS zones with local officials  
@@ -50,7 +50,7 @@ A zone-driven public safety platform designed for large-scale events such as the
 
 ---
 
-### 💻 Lab Management System
+### Lab Management System
 An admin-focused system for tracking laboratory devices, issues, and maintenance lifecycles.
 
 - Full device lifecycle tracking (allocation, repair, retirement)  
@@ -64,7 +64,7 @@ An admin-focused system for tracking laboratory devices, issues, and maintenance
 
 ## Applied Systems
 
-### 🌱 FabScorer — Textile Recyclability Evaluation Platform
+### FabScorer — Textile Recyclability Evaluation Platform
 A sustainability-focused platform that evaluates fabric recyclability and coordinates pickups with textile experts.
 
 - Recyclability scoring based on fabric composition  
@@ -75,7 +75,7 @@ A sustainability-focused platform that evaluates fabric recyclability and coordi
 
 ---
 
-### 🔍 Mini Search Engine
+### Mini Search Engine
 A backend-focused project for indexing and querying content.
 
 - SQL-backed indexing and search logic  
