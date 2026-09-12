@@ -50,9 +50,6 @@ management of medical data.
 A web application for evaluating textile recyclability and connecting users
 with textile experts.
 
-The project was also used for a research publication on environment-friendly
-textiles.
-
 ## Currently Learning
 
 Java and Spring Boot
